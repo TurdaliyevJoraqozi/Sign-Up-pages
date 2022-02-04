@@ -27,6 +27,7 @@
 }
 .left_sign {
   padding: 15rem 13rem;
+  z-index: 1;
 }
 .text {
   padding: 1.5rem 0;
@@ -37,7 +38,74 @@
 .ismcha {
   font-size: 1.1rem;
 }
-.input {
+.name-input {
+  height: 5rem;
+  width: 40rem;
+  padding: 1rem;
+  border: solid 0.1rem;
+  border-color: gray;
+  border-radius: 1rem;
+  background-color: rgb(219, 218, 218);
+}
+.forget {
+  display: block;
+  font-size: 1.1rem;
+}
+.login {
+  background-color: indigo;
+  color: white;
+  border: none;
+}
+.an {
+  text-align: center;
+}
+span {
+  color: rgb(5, 201, 201);
+}
+
+/* page yetti tugaddi sakkizinchisining styleni boshladim . */
+
+.page8 {
+  background-color: rgb(255, 255, 255);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 100vh;
+  padding: 0rem;
+  gap: 0rem;
+}
+.right8_image {
+  background-image: url(../images/Buildings-Sky-Scrapers.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 1.1rem;
+}
+.right8_image ul {
+  display: flex;
+  justify-content: space-between;
+}
+.right8_image ul li h2 {
+  color: white;
+  font-size: 2.3rem;
+}
+.right8_image ul li i {
+  color: #fff;
+  font-size: 2.3rem;
+}
+.left_sign {
+  padding: 15rem 13rem;
+  z-index: 1;
+}
+.text {
+  padding: 1.5rem 0;
+}
+.in {
+  font-size: 3rem;
+}
+.ismcha {
+  font-size: 1.1rem;
+}
+.name-input {
   height: 5rem;
   width: 40rem;
   padding: 1rem;
