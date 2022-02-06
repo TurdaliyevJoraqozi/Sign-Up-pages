@@ -48,3 +48,30 @@
     height: 25rem;
   }
 }
+
+/* page 11 uchun responsive */
+
+@media (max-width: 1000px) {
+  .page11 {
+    display: flex;
+    flex-direction: column;
+  }
+  .left_sign {
+    padding: 3rem 4rem;
+    margin-top: 22rem;
+  }
+  .left_sign {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .name-input {
+    width: 100%;
+  }
+  .doxtir img {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    height: 25rem;
+  }
+}
