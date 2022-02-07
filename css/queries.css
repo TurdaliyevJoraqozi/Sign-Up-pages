@@ -21,10 +21,7 @@
     left: 0;
     height: 25rem;
   }
-}
 
-/* page 8 uchun responsive  */
-@media (max-width: 1000px) {
   .page8 {
     display: flex;
     flex-direction: column;
@@ -46,5 +43,113 @@
     width: 100%;
     left: 0;
     height: 25rem;
+  }
+
+  /* page 11 uchun responsive */
+
+  .page11 {
+    display: flex;
+    flex-direction: column;
+  }
+  .left_sign {
+    padding: 3rem 4rem;
+    margin-top: 22rem;
+  }
+  .left_sign {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .name-input {
+    width: 100%;
+  }
+  .doxtir img {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    height: 25rem;
+  }
+
+  /* 12-page uchun responsive */
+
+  .page12 {
+    display: flex;
+    flex-direction: column;
+  }
+  .left_sign {
+    padding: 3rem 4rem;
+    margin-top: 22rem;
+  }
+  .left_sign {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .name-input {
+    width: 100%;
+  }
+  .kosmonaft img {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    height: 25rem;
+  }
+
+  /* 1-page  uchun responsive*/
+
+  .page1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .right_sign {
+    padding: 3rem 4rem;
+    margin-top: 22rem;
+  }
+  .right_sign {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .name-input {
+    width: 100%;
+  }
+  .businesswoman img {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    height: 25rem;
+  }
+
+  /* 2-page uchun responsive */
+
+  .page2 {
+    display: flex;
+    flex-direction: column;
+  }
+  .right_sign {
+    padding: 3rem 4rem;
+    margin-top: 22rem;
+  }
+  .right_sign {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .name-input {
+    width: 100%;
+  }
+  .businesswoman img {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    height: 25rem;
+  }
+  .page5 {
+    display: flex;
+  }
+  .login,
+  .visa {
+    margin-top: 1rem;
+    padding: 2rem;
   }
 }

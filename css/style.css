@@ -129,3 +129,381 @@ span {
 span {
   color: rgb(5, 201, 201);
 }
+
+/* sakkizinchi pageniyam tugatdim */
+
+/* 11-pagening style uchun */
+
+.page11 {
+  background-color: rgb(255, 255, 255);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 100vh;
+  padding: 0rem;
+  gap: 0rem;
+}
+.doxtir img {
+  height: 20rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 1.1rem;
+  width: 70rem;
+  height: 82rem;
+}
+
+.left_sign {
+  padding: 17rem 9rem;
+  z-index: 1;
+}
+.text {
+  padding: 1.5rem 0;
+}
+.in {
+  font-size: 3rem;
+}
+.ismcha {
+  font-size: 1.1rem;
+}
+.name-input {
+  height: 5rem;
+  width: 40rem;
+  padding: 1rem;
+  border: solid 0.1rem;
+  border-color: gray;
+  border-radius: 1rem;
+  background-color: rgb(219, 218, 218);
+}
+.forget {
+  display: block;
+  font-size: 1.1rem;
+}
+.login {
+  background-color: indigo;
+  color: white;
+  border: none;
+}
+.an {
+  text-align: center;
+}
+span {
+  color: rgb(5, 201, 201);
+}
+
+/* 11-page tugadi */
+/* 12-pageni boshlayabman */
+.page12 {
+  background-color: rgb(255, 255, 255);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 100vh;
+  padding: 0rem;
+  gap: 0rem;
+}
+.kosmonaft img {
+  height: 20rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 1.1rem;
+  width: 70rem;
+  height: 82rem;
+}
+
+.left_sign {
+  padding: 17rem 9rem;
+  z-index: 1;
+}
+.text {
+  padding: 1.5rem 0;
+}
+.in {
+  font-size: 3rem;
+}
+.ismcha {
+  font-size: 1.1rem;
+}
+.name-input {
+  height: 5rem;
+  width: 40rem;
+  padding: 1rem;
+  border: solid 0.1rem;
+  border-color: gray;
+  border-radius: 1rem;
+  background-color: rgb(219, 218, 218);
+}
+.forget {
+  display: block;
+  font-size: 1.1rem;
+}
+.login {
+  background-color: indigo;
+  color: white;
+  border: none;
+}
+.an {
+  text-align: center;
+}
+span {
+  color: rgb(5, 201, 201);
+}
+
+/* page 1 uchun style */
+.page1 {
+  background-color: rgb(255, 255, 255);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 100vh;
+  padding: 0rem;
+  gap: 0rem;
+}
+.businesswoman img {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 70rem;
+  height: 82rem;
+}
+
+.right_sign {
+  padding: 8rem 12rem;
+  z-index: 1;
+}
+.text {
+  padding: 1.5rem 0;
+}
+.in {
+  font-size: 3rem;
+}
+.ismcha {
+  font-size: 1.1rem;
+}
+.sign-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.4rem;
+}
+.sign-nav a {
+  text-decoration: none;
+  padding: 0.1rem 0 0.5rem 0.1rem;
+  color: #2e384dad;
+  border-bottom: 2px solid #e0e7ff;
+  font-size: 1.6rem;
+}
+.sign-nav .activ {
+  border-bottom: 2px solid #2e5bff;
+  color: #2e384d;
+}
+.name-input {
+  height: 5rem;
+  width: 40rem;
+  padding: 1rem;
+  border: solid 0.1rem;
+  border-color: gray;
+  border-radius: 1rem;
+  background-color: rgb(219, 218, 218);
+}
+
+.forget {
+  display: block;
+  font-size: 1.1rem;
+}
+.login {
+  background-color: rgb(25, 0, 255);
+  color: white;
+  border: none;
+}
+.tugma {
+  margin-top: 4rem;
+}
+.an {
+  text-align: center;
+}
+span {
+  color: rgb(5, 201, 201);
+}
+.two_section {
+  display: flex;
+  gap: 3rem;
+}
+
+/* zkshvb.dshvkbdbvskdvbdkjsvbdkdvbdsvksvb */
+.page2 {
+  background-color: rgb(255, 255, 255);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 100vh;
+  padding: 0rem;
+  gap: 0rem;
+}
+.businesswoman img {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 70rem;
+  height: 82rem;
+}
+
+.right_sign {
+  padding: 8rem 12rem;
+  z-index: 1;
+}
+.text {
+  padding: 1.5rem 0;
+}
+.in {
+  font-size: 3rem;
+}
+.ismcha {
+  font-size: 1.1rem;
+}
+.sign-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.4rem;
+}
+.sign-nav a {
+  text-decoration: none;
+  padding: 0.1rem 0 0.5rem 0.1rem;
+  color: #2e384dad;
+  border-bottom: 2px solid #e0e7ff;
+  font-size: 1.6rem;
+}
+.sign-nav .activ {
+  border-bottom: 2px solid #2e5bff;
+  color: #2e384d;
+}
+.name-input {
+  height: 5rem;
+  width: 40rem;
+  padding: 1rem;
+  border: solid 0.1rem;
+  border-color: gray;
+  border-radius: 1rem;
+  background-color: rgb(219, 218, 218);
+}
+
+.forget {
+  display: block;
+  font-size: 1.1rem;
+}
+.login {
+  background-color: rgb(25, 0, 255);
+  color: white;
+  border: none;
+}
+.tugma {
+  margin-top: 4rem;
+}
+.an {
+  text-align: center;
+}
+span {
+  color: rgb(5, 201, 201);
+}
+.two_section {
+  display: flex;
+  gap: 3rem;
+}
+
+/* 5-page uchun style yozishni boshladim */
+.page5 {
+  background-color: rgb(255, 255, 255);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 100vh;
+  padding: 0rem;
+  gap: 0rem;
+}
+.businesswoman img {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 70rem;
+  height: 82rem;
+}
+
+.right_sign {
+  padding: 8rem 12rem;
+  z-index: 1;
+}
+.text {
+  padding: 1.5rem 0;
+}
+.in {
+  font-size: 3rem;
+}
+.ismcha {
+  font-size: 1.1rem;
+}
+.sign-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.4rem;
+}
+.sign-nav a {
+  text-decoration: none;
+  padding: 0.1rem 0 0.5rem 0.1rem;
+  color: #2e384dad;
+  border-bottom: 2px solid #e0e7ff;
+  font-size: 1.6rem;
+}
+.sign-nav .activ {
+  border-bottom: 2px solid #2e5bff;
+  color: #2e384d;
+}
+.name-input {
+  height: 5rem;
+  width: 40rem;
+  padding: 1rem;
+  border: solid 0.1rem;
+  border-color: gray;
+  border-radius: 1rem;
+  background-color: rgb(219, 218, 218);
+}
+
+.forget {
+  display: block;
+  font-size: 1.1rem;
+}
+.login {
+  background-color: rgb(25, 0, 255);
+  color: white;
+  border: none;
+}
+.tugma {
+  margin-top: 4rem;
+}
+.an {
+  text-align: center;
+}
+span {
+  color: rgb(5, 201, 201);
+}
+.two_section {
+  display: flex;
+  gap: 3rem;
+}
+.name_select {
+  height: 5rem;
+  width: 100%;
+  padding: 1rem;
+  border: solid 0.1rem;
+  border-color: gray;
+  border-radius: 1rem;
+  background-color: rgb(219, 218, 218);
+}
+.select_group {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.2rem;
+}
+.date_item select {
+  width: 100%;
+  height: 5rem;
+  padding: 1rem;
+  border: solid 0.1rem;
+  border-color: gray;
+  border-radius: 0.8rem;
+  background-color: rgb(219, 218, 218);
+}
